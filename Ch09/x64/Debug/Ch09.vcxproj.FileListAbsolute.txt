@@ -1,0 +1,2 @@
+C:\Users\82102\source\repos\Ch09\x64\Debug\Ch09.exe
+C:\Users\82102\source\repos\Ch09\x64\Debug\Ch09.pdb
